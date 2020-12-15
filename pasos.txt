@@ -1,0 +1,5 @@
+1: hice fork del repo entregado en la plataforma
+2: cuando ya estaba vinculado a mi github, desde la terminal ejecuté git clone para traer el repo a mi ordenador
+3: modifiqué el archivo html 
+4: hice git push y git commit -m para subir las modificaciones al repo original
+5: en GitHub hice pull request para terminar de enviar las modificaciones
